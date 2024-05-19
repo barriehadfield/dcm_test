@@ -1,0 +1,28 @@
+{
+  "date": "2024-05-19 06:12:02.226438Z",
+  "version": "1.17.2",
+  "paths": {
+    "lib/main.dart": {
+      "prefer-match-file-name": [
+        "9075e416a7d67c2f6c7d9386dff2e591"
+      ],
+      "prefer-single-widget-per-file": [
+        "34a31ccf2c1574e9b51523f3c81ecda1"
+      ],
+      "avoid-inferrable-type-arguments": [
+        "00a3270f172fa9c8cd2ddb17db4fd26b"
+      ],
+      "unnecessary-trailing-comma": [
+        "377d43dc1909615e0279c9fecd42dc3f"
+      ],
+      "prefer-trailing-comma": [
+        "40b25974049fb5025bf7b016a6d56ff2"
+      ]
+    },
+    "lib/my_widget.dart": {
+      "unnecessary-trailing-comma": [
+        "bbe6226a7001f6499e9e8b12bf96cf98"
+      ]
+    }
+  }
+}
